@@ -46,6 +46,7 @@ export const AMAZON_DOMAINS = [
   'amazon.com.mx',
   'amazon.com.be',
   'amazon.ae',
+  'amazon.ie',
 ];
 
 /**
