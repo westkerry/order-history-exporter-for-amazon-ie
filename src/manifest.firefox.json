@@ -27,6 +27,7 @@
     "*://*.amazon.com.mx/*",
     "*://*.amazon.com.be/*",
     "*://*.amazon.ae/*"
+	"*://*.amazon.ie/*"
   ],
   "browser_action": {
     "default_icon": {
@@ -84,6 +85,9 @@
         "*://*.amazon.ae/*gp/your-account/order-history*",
         "*://*.amazon.ae/*gp/css/order-history*",
         "*://*.amazon.ae/*your-orders*"
+		"*://*.amazon.ie/*gp/your-account/order-history*",
+        "*://*.amazon.ie/*gp/css/order-history*",
+        "*://*.amazon.ie/*your-orders*"
       ],
       "js": ["content/content.js"],
       "run_at": "document_idle"
