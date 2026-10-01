@@ -64,6 +64,7 @@ Browser extension for exporting your Amazon order history to JSON or CSV format.
 | Mexico         | `amazon.com.mx` | MXN              |
 | Belgium        | `amazon.com.be` | EUR              |
 | United Arab Emirates | `amazon.ae` | AED              |
+| Ireland        | `amazon.ie`     | EUR              |
 
 ---
 
